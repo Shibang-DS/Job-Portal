@@ -2,6 +2,8 @@
 Built a job portal where people can search for jobs as per their requirements according to the postings.
 Recruiters can add any job postings in the Firebase database itself.
 
+Deployed Link - https://657536d65345c15a7084398b--profound-alpaca-3582df.netlify.app/
+
 # Tech Stack Used
   1. Vite
   2. React.js
